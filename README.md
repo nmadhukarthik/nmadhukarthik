@@ -8,10 +8,6 @@ I'm a **MERN Full Stack Developer** with hands-on experience building web applic
 
 I'm currently expanding into **Cloud & DevOps**, learning **Docker, Kubernetes, Jenkins and CI/CD**, while strengthening my hands-on knowledge of **AWS infrastructure and scalable application architecture**.
 
-📍 Bengaluru
-💼 Open to Full Stack / Cloud / DevOps opportunities
-🌏 Open for remote opportunities
-
 ---
 
 ## 🧑‍💻 About Me
